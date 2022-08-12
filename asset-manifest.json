@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/adeuline/static/css/main.c583fd13.css",
+    "main.js": "/adeuline/static/js/main.cc7ed96a.js",
+    "static/js/787.88d55439.chunk.js": "/adeuline/static/js/787.88d55439.chunk.js",
+    "static/media/parallax3.png": "/adeuline/static/media/parallax3.65822ec46a17966c3b6b.png",
+    "static/media/parallax2.png": "/adeuline/static/media/parallax2.948b954cad9254ebe7ea.png",
+    "static/media/parallax1.jpg": "/adeuline/static/media/parallax1.380a12e2ac6ac76018a7.jpg",
+    "index.html": "/adeuline/index.html",
+    "main.c583fd13.css.map": "/adeuline/static/css/main.c583fd13.css.map",
+    "main.cc7ed96a.js.map": "/adeuline/static/js/main.cc7ed96a.js.map",
+    "787.88d55439.chunk.js.map": "/adeuline/static/js/787.88d55439.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c583fd13.css",
+    "static/js/main.cc7ed96a.js"
+  ]
+}
