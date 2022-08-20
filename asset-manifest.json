@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/adeuline/static/css/main.736cf7dc.css",
-    "main.js": "/adeuline/static/js/main.5cd0d69e.js",
+    "main.css": "/adeuline/static/css/main.99a53747.css",
+    "main.js": "/adeuline/static/js/main.ccc9189c.js",
     "static/js/787.88d55439.chunk.js": "/adeuline/static/js/787.88d55439.chunk.js",
     "static/media/parallax3.png": "/adeuline/static/media/parallax3.65822ec46a17966c3b6b.png",
     "static/media/pexels2.jpg": "/adeuline/static/media/pexels2.d4bf89832ce3cc763d86.jpg",
@@ -10,12 +10,12 @@
     "static/media/plume.png": "/adeuline/static/media/plume.72b06a2a449668dc49b8.png",
     "static/media/parallax1.jpg": "/adeuline/static/media/parallax1.380a12e2ac6ac76018a7.jpg",
     "index.html": "/adeuline/index.html",
-    "main.736cf7dc.css.map": "/adeuline/static/css/main.736cf7dc.css.map",
-    "main.5cd0d69e.js.map": "/adeuline/static/js/main.5cd0d69e.js.map",
+    "main.99a53747.css.map": "/adeuline/static/css/main.99a53747.css.map",
+    "main.ccc9189c.js.map": "/adeuline/static/js/main.ccc9189c.js.map",
     "787.88d55439.chunk.js.map": "/adeuline/static/js/787.88d55439.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.736cf7dc.css",
-    "static/js/main.5cd0d69e.js"
+    "static/css/main.99a53747.css",
+    "static/js/main.ccc9189c.js"
   ]
 }
